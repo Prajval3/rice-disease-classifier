@@ -39,3 +39,5 @@ To retrain the model, open and execute the rice-disease-classifier.ipynb noteboo
 Preprocess the dataset. Train the CNN model. Save the trained model as rice.h5.
 
 # Demo 🖼️
+https://github.com/Prajval3/rice-disease-classifier/blob/main/rice_1.png  
+https://github.com/Prajval3/rice-disease-classifier/blob/main/rice_2.png
