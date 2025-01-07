@@ -8,7 +8,7 @@ Deep Learning Model: Built using TensorFlow/Keras. Web Application: Simple, inte
 
 # Installation 📦
 ## 1. Clone the Repository
-git clone r https://github.com/Prajval3/rice-disease-classifier
+git clone https://github.com/Prajval3/rice-disease-classifier
 
 ## 2. Set Up Environment
 Create and activate a virtual environment:
